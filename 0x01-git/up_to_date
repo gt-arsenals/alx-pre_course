@@ -1,0 +1,6 @@
+git switch command is used to switch between branches
+git commit is used to describe your code
+git add . is used to add files to git repository
+git push is used to send files to repository
+git --amend is used to correct some errors in describtion
+git push --force is used to overwrite a file in repository
