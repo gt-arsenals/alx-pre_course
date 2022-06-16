@@ -1,6 +1,4 @@
-git switch command is used to switch between branches
-git commit is used to describe your code
-git add . is used to add files to git repository
-git push is used to send files to repository
-git --amend is used to correct some errors in describtion
-git push --force is used to overwrite a file in repository
+git push: is use for uploading files to remote repository
+git commit: is used for describing the file on which is about to be uploaded
+git add .: is used for preparing the files to be commited
+git switch: is used to switch between git branches
