@@ -1,4 +1,1 @@
-git push: is use for uploading files to remote repository
-git commit: is used for describing the file on which is about to be uploaded
-git add .: is used for preparing the files to be commited
-git switch: is used to switch between git branches
+git pull
